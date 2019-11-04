@@ -1,2 +1,2 @@
-# Statistics-and-Estocastics
+# Statistics and Estocastics
 On Matlab
